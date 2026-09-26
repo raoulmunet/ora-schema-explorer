@@ -55,6 +55,12 @@ It is useful for source repositories, code review, migration analysis, documenta
 
 Synonyms, dynamic SQL, editioning views, grants, runtime metadata and view expansion require a live database/catalog and are not guessed.
 
+## Visual demo
+
+A static visual preview is included in [`docs/index.html`](docs/index.html).
+
+To publish it with GitHub Pages: **Settings → Pages → Deploy from a branch → `main` → `/docs`**. The repository is already prepared with `docs/.nojekyll`.
+
 ## Oracle Dev Tools family
 
 This repository is part of the **Oracle Dev Tools** suite: small, composable developer utilities designed around Oracle Database 19c, 23ai and 26ai.
